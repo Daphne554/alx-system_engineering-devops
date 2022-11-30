@@ -1,2 +1,0 @@
-Working directory
-list directory
